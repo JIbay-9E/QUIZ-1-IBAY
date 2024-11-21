@@ -1,0 +1,23 @@
+body{
+    background-image: url('bahay kubo.png');
+    color: black;
+    text-align: center;
+    font-family: "Funnel Sans", sans-serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+   
+}
+
+.container{
+    background-color: #FC9E4F;
+}
+img{
+    width: 180px;
+    border-radius: 8px;
+}
+h1{
+    font-family: "Cookie", cursive;
+}
+
+  
